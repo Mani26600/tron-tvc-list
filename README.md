@@ -1,3 +1,4 @@
+
 # Adding new token
 The JSON schema for the tokens includes: address, name, decimals, symbol, logoURI, official homepage, MarketCap link, existing Markets.
 
